@@ -1,4 +1,4 @@
-# Proyecto-Final - BD
+# ProyectoFinal - BD
 Pruecto Final - Bases de Datos
 
 Integrantes:
